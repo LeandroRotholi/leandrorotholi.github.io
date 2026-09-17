@@ -102,7 +102,7 @@ Essa etapa é importante porque um dashboard eficiente não deve começar pela e
 
 ---
 
-## 4. Definição dos indicadores
+## 4. Definição dos indicadores KPIs
 
 A partir dos objetivos do projeto, foram definidos quatro indicadores principais para representar a visão geral do negócio.
 
@@ -130,7 +130,7 @@ Esses indicadores foram utilizados como KPIs na parte superior do dashboard para
 
 O dashboard foi desenvolvido no **Power BI**, utilizando uma estrutura voltada para análise gerencial.
 
-*Inserir link do dashboard PowerBI aqui*
+*Inserir endereço do dashboard PowerBI aqui*
 > *Dashboard desenvolvido em Power BI.*
 
 A página principal foi organizada em diferentes níveis de análise.
