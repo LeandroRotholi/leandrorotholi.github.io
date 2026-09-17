@@ -1,5 +1,5 @@
 ---
-title: Análise de Dados do Setor de Turismo no Nordeste
+title: "Análise de Dados do Setor de Turismo no Nordeste"
 date: 2026-09-17 10:00:00 -0300
 categories: [data-analysis, project]
 tags: [excel, data, powerbi]
