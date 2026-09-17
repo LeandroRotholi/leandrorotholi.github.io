@@ -389,8 +389,4 @@ Essas análises permitiriam evoluir o projeto de um dashboard descritivo para um
 
 ---
 
-## Autor
-
-**Leandro Rotholi**
-
 *Obs.: Este projeto foi desenvolvido originalmente como parte de um teste prático para uma oportunidade de estágio e posteriormente adaptado para compor meu portfólio de **Análise de Dados e Business Intelligence**.*
