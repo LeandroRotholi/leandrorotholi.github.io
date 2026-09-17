@@ -130,7 +130,7 @@ Esses indicadores foram utilizados como KPIs na parte superior do dashboard para
 
 O dashboard foi desenvolvido no **Power BI**, utilizando uma estrutura voltada para análise gerencial.
 
-(Inserir endereço do dashboard PowerBI aqui)
+ENDEREÇO DO DASHBOARD POWERBI
 > *Dashboard desenvolvido em Power BI.*
 
 A página principal foi organizada em diferentes níveis de análise.
