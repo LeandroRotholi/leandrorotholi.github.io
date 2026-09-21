@@ -21,25 +21,6 @@ O objetivo principal foi transformar os dados em informações que pudessem auxi
 * Identificar oportunidades de melhoria;
 * Apoiar decisões estratégicas simples.
 
-Este projeto está estruturado nos seguintes tópicos:
-
-**1. *O problema de negócio***
-**2. *Dados utilizados***
-**3. *Preparação e entendimento dos dados***
-**4. *Definição dos indicadores KPIs***
-**5. *Construção do Dashboard***
-**6. *Filtros e exploração de dados***
-**7. *Resultado da Análise***
-**8. *Análise temporal***
-**9. *Comparação entre os estados***
-**10. *Comparação entre tipos de empreendimento***
-**11. *Análise por cidade***
-**12. *Principais Insights***
-**13. *Recomendações estratégicas***
-**14. *Limitações de Análise***
-**15. *Próximos Passos***
-**16. *Tecnologias Utilizadas***
-
 Dito isso, seguimos para o primeiro tópico desta análise.
 
 ---
@@ -388,9 +369,5 @@ Essas análises permitiriam evoluir o projeto de um dashboard descritivo para um
 * Storytelling com dados.
 
 ---
-
-## Autor
-
-**Leandro Rotholi**
 
 *Obs.: Este projeto foi desenvolvido originalmente como parte de um teste prático para uma oportunidade de estágio e posteriormente adaptado para compor meu portfólio de **Análise de Dados e Business Intelligence**.*
